@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnemvQ8H3PimmBbW/7jQUxLKHfhIlymckzD5bJ9ATpMpk8DTBSIQDFxKhkL8Q3d8rCSiIlBjlsse10KhEUB9Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msi summit\\Desktop\\KorolevaE_GUN34_2\\KorolevaE_GUN34_2\\KorolevaE_GUN34_2\\KorolevaE_GUN34_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi summit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\msi summit\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\msi summit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\msi summit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
